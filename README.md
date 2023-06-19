@@ -2,7 +2,7 @@
 
 Welcome to the **ChatGPT Tweet Analysis** project repository! This project aims to provide insights into the technology interest trends surrounding ChatGPT by analyzing related tweets over time. By examining the Twitter data, we can gain a deeper understanding of the community's engagement and sentiment towards ChatGPT.
 
-<center> <img src="results/results.jpg" width="60%" > </center>
+<img src="results/results.jpg" width="60%" align="center">
 
 ## Project Structure
 
