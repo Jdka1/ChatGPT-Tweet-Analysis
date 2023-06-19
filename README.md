@@ -9,7 +9,6 @@ Welcome to the **ChatGPT Tweet Analysis** project repository! This project aims 
 ## Project Structure
 
 - `main.py`: The main script for performing the tweet analysis.
-- `Twitter Jan Mar.zip`: Zip file containing the data used for analysis.
 - `results/`: Directory to store the generated analysis results and visualizations.
 
 ## Contributing
